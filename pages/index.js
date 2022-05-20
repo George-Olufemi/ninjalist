@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Ninjalist | Home</title>
+        <title>Ninjalist</title>
         <meta name="content" keywords="george olufemi, ninja, next.js" />
       </Head>
       <div>
